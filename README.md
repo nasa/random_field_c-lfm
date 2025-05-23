@@ -1,4 +1,4 @@
-# Constrained Latent Flow Matching (C-LFM) for Random Fields
+## Constrained Latent Flow Matching (C-LFM) for Random Fields
 
 ![alt text](images/figure1_border.png)
 
